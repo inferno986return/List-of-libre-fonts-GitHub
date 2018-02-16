@@ -25,6 +25,7 @@ This list is designed to be similar to Lee Reilly's list of [Games](https://gith
 * [Overpass](https://github.com/RedHatBrand/Overpass) - Based on Highway Gothic, replacement for Interstate.
 * [Railway Sans](https://github.com/GregFleming/Railway-Sans) - open-source Johnston typeface
 * [Roboto](https://github.com/google/roboto) - Current Android UI typeface.
+* [Selawik](https://github.com/Microsoft/Selawik) - Metrically-compatible replacement for Segoe UI.
 * [Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro) and [Source Han Sans](https://github.com/adobe-fonts/source-han-sans)
 
 ## Monospaced
